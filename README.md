@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](Tah1rTheT1ger_GitHub_Banner.png)
+![Header](Tah1rTheT1ger_GitHub_Banner_Curved.png)
 
 # 👋 Hey There!
 Welcome to my tiny corner of GitHub! Let's dive into who I am and what I'm up to 🌍
