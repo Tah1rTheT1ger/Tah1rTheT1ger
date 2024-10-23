@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![Header](Tah1rTheT1ger_GitHub_Banner.png)
 
-# 💫 About Me:
+# 👋 Hey There!
 Welcome to my tiny corner of GitHub! Let's dive into who I am and what I'm up to 🌍
 
 👨‍💻 I'm a passionate skeptic of Artificial Intelligence, always exploring the boundaries of Data Visualization, Software Development, and all the weird and wonderful corners of Computer Science. I love thinking about how computers and social networks influence human psychology and political consciousness.
